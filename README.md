@@ -70,6 +70,9 @@ CREATE TABLE deliveries (
 
 Before performing analysis, I ensured that the data was clean and free from null values where necessary. For instance:
 
+## ERD Diagram
+![image alt](https://github.com/Aniketmunde99/Zomato-SQL-Analysis/blob/29a9b34db9dc23ddf3e4eaaebf639a05793b59a4/zomato%20-%20ERD.png)
+
 ## Business Problems Solved
 
 ### 1. Write a query to find the top 5 most frequently ordered dishes by customer called "Arjun Mehta" in the last 1 year.
